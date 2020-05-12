@@ -18,14 +18,6 @@ git clone https://github.com/tensorflow/examples.git
 ```
 
 ## 3. Enable developer options and USB debugging on your Android device
-. Android 9 (API level 28) and higher: Settings > System > Advanced > Developer Options > USB debugging
-. Android 8.0.0 (API level 26) and Android 8.1.0 (API level 26): Settings > System > Developer Options > USB debugging
+* Android 9 (API level 28) and higher: Settings > System > Advanced > Developer Options > USB debugging
+* Android 8.0.0 (API level 26) and Android 8.1.0 (API level 26): Settings > System > Developer Options > USB debugging
 
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
