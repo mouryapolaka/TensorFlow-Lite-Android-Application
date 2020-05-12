@@ -17,15 +17,10 @@ Clone the [TensorFlow Lite examples](https://github.com/tensorflow/examples.git)
 git clone https://github.com/tensorflow/examples.git
 ```
 
-## 2. 
+## 3. Enable developer options and USB debugging on your Android device
+. Android 9 (API level 28) and higher: Settings > System > Advanced > Developer Options > USB debugging
+. Android 8.0.0 (API level 26) and Android 8.1.0 (API level 26): Settings > System > Developer Options > USB debugging
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
