@@ -1,5 +1,9 @@
 # Android Application to Classify Dog Breeds
 
+<p align="center">
+  <img width="460" height="300" src="https://miro.medium.com/max/1114/1*qeaol3cI-SzwrQhTYrVOTQ.png">
+</p>
+
 ## 1. Train the TensorFlow Lite model
 The model was trained on [Stanford Dogs dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) which was trained on 20,580 images of 120 dog breeds.
 
