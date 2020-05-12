@@ -1,7 +1,7 @@
 # Android Application to Classify Dog Breeds
 
 <p align="center">
-  <img width="460" height="300" src="https://miro.medium.com/max/1114/1*qeaol3cI-SzwrQhTYrVOTQ.png">
+  <img width="500" height="400" src="https://miro.medium.com/max/1114/1*qeaol3cI-SzwrQhTYrVOTQ.png">
 </p>
 
 ## 1. Train the TensorFlow Lite model
