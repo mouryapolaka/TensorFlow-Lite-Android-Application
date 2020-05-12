@@ -24,3 +24,6 @@ Path to assets folder `/lite/examples/image_classification/android/app/src/main/
 ## 6. Select the device and run the application
 
 ![Image](https://miro.medium.com/max/1400/1*y2ZZskgQ9MU3H-Ujv-r7ag.png)
+
+
+[Click here](https://youtu.be/2rz38ZZ_iv0) for a demo of the Android application.
