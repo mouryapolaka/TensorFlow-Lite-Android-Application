@@ -1,10 +1,9 @@
-# Foobar
+# Android Application to Predict Dog Breeds using TensorFlow Lite
 
-Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone the [TensorFlow Lite](https://github.com/tensorflow/examples.git) to install foobar.
 
 ```bash
 pip install foobar
