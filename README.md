@@ -1,15 +1,13 @@
-# Android Application to Predict Dog Breeds using TensorFlow Lite
+# Android Application to Classify Dog Breeds using TensorFlow Lite
 
-
-## Installation
-
-Clone the [TensorFlow Lite](https://github.com/tensorflow/examples.git) to install foobar.
+## 1. Clone the repository
+Clone the [TensorFlow Lite examples](https://github.com/tensorflow/examples.git) repository on your local machine.
 
 ```bash
-pip install foobar
+git clone https://github.com/tensorflow/examples.git
 ```
 
-## Usage
+## 
 
 ```python
 import foobar
