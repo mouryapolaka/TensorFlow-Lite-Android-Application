@@ -5,7 +5,7 @@
 </p>
 
 ## 1. Train the TensorFlow Lite model
-The model was trained on [Stanford Dogs dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) which was trained on 20,580 images of 120 dog breeds.
+The model was trained on [Stanford Dogs dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) which consists of over 20,580 images of 120 dog breeds.
 
 ## 2. Clone the repository
 Clone the [TensorFlow Lite examples](https://github.com/tensorflow/examples.git) repository on your local machine.
